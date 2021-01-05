@@ -4,7 +4,7 @@
   "description": "TL;DR; application for the loggers article",
   "main": "index.js",
   "scripts": {
-    "dev": "tsc --watch",
+    "dev": "nodemon ./src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -30,6 +30,7 @@
   "devDependencies": {
     "@types/express": "^4.17.9",
     "@types/node": "^14.14.20",
+    "nodemon": "^2.0.6",
     "ts-node": "^9.1.1",
     "typescript": "^4.1.3"
   }
