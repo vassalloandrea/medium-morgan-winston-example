@@ -1,0 +1,26 @@
+{
+  "name": "medium-morgan-winston-example",
+  "version": "1.0.0",
+  "description": "TL;DR; application for the loggers article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vassalloandrea/medium-morgan-winston-example.git"
+  },
+  "keywords": [
+    "development",
+    "morgan",
+    "winston",
+    "medium",
+    "backend"
+  ],
+  "author": "Andrea Vassallo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vassalloandrea/medium-morgan-winston-example/issues"
+  },
+  "homepage": "https://github.com/vassalloandrea/medium-morgan-winston-example#readme"
+}
