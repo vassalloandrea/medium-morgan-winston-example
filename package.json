@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/vassalloandrea/medium-morgan-winston-example#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "winston": "^3.3.3"
   },
   "devDependencies": {
     "@types/express": "^4.17.9",
